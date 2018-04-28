@@ -1,4 +1,4 @@
-# C-3pi
+# C-3pi (AKA "Gufetta")
 
 *Protocol droid fluent in six million forms of comunication*
 
